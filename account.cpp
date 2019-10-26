@@ -1,5 +1,5 @@
 // Author: Vakishna Thayalan
-// Licence: Mozilla Public Licence
+// Licence: Mozilla Public Licence 2.0
 // Date: 27 October 2019
 
 #include "accounts.h"

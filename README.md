@@ -1,3 +1,3 @@
 # Ledgers
 Command Line Bookkeeping
-Development in progress.
+Development In Progress.

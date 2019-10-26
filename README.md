@@ -1,3 +1,4 @@
 # Ledgers
-Command Line Bookkeeping
+Command Line Bookkeeping.
+
 Development In Progress.
